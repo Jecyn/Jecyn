@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jecyn
 - 👀 I’m interested in Web design, Gaming, and Music
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Java
 - 💞️ I’m looking to collaborate on literally anything
 
 <!---
